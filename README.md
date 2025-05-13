@@ -7,8 +7,8 @@ HTML, CSS, JavaScript로 구성되어 있으며, GitHub Pages로 배포되어
 ---
 
 ## 🔗 접속 링크
-- [DB면접 퀴즈 페이지 열기](https://jeong1994.github.io/interview_QnA/interview_db.html){:target="_blank"}
-- [JAVA면접 퀴즈 페이지 열기](https://jeong1994.github.io/interview_QnA/interview_java.html){:target="_blank"}
+- <a href="https://jeong1994.github.io/interview_QnA/interview_db.html" target="_blank">DB면접 퀴즈 페이지 열기</a>  
+- <a href="https://jeong1994.github.io/interview_QnA/interview_java.html" target="_blank">JAVA면접 퀴즈 페이지 열기</a>
 
 ---
 
