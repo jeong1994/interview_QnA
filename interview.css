@@ -36,3 +36,8 @@
         font-size: 0.9rem;
         color: #666;
       }
+
+      .notice {
+        font-size: 0.8rem;
+        color: red;
+      }
