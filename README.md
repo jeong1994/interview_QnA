@@ -7,7 +7,8 @@ HTML, CSS, JavaScript로 구성되어 있으며, GitHub Pages로 배포되어
 ---
 
 ## 🔗 접속 링크
-- [면접 퀴즈 페이지 열기](https://jeong1994.github.io/interview_QnA/interview_db.html)
+- [DB면접 퀴즈 페이지 열기](https://jeong1994.github.io/interview_QnA/interview_db.html)
+- [JAVA면접 퀴즈 페이지 열기](https://jeong1994.github.io/interview_QnA/interview_java.html)
 
 ---
 
